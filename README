@@ -1,0 +1,7 @@
+==============================================================================
+
+Repository containing FPGA compiled bitstreams from bpm-sw project
+
+==============================================================================
+
+All of the bitsreams should be identified by the full commit SHA-1 they refer to.
